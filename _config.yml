@@ -73,8 +73,6 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
@@ -126,6 +124,26 @@ content:
         description: | # this will include new lines to allow paragraphs
           Developed a Python module for PDF structure extraction, enabling the indexing of unstructured documents for efficient information retrieval; could be further used to generate supervised data in the COCO format used to fine-tune Computer Vision-based object detection models for scanned documents.
           Led a team as captain in the Infosys Hackathon, for which we developed and proposed a modular NLP system that combined multiple healthcare-related chatbots through APIs in a single user interface; won first prize out of 33 teams.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of Amsterdam
+        caption: Sept 2021 - Current
+        sub_title: Master of Science in Artificial Intelligence
+        description: | # this will include new lines to allow paragraphs
+          - Relevant courses: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, Advanced Topics in Computational Semantics, Information Theory.
+          - Thesis: Global Temporal Fusion Transformers for Enhancing Robustness in Forecasting Electric Vehicle Charging Load through Joint Time-Series Learning.
+          > GPA: 8.3/10 (Cum Laude)
+
+      - layout: left
+        title: University of Amsterdam
+        caption: Sept 2017 - Mar 2021
+        sub_title: Bachelor of Science in Artificial Intelligence
+        description: | # this will include new lines to allow paragraphs
+          -  Minor: Applied Econometrics, Technical Track at the Vrije Universiteit Amsterdam
+          - Thesis: End-to-end Open-Domain Question Answering using Neural Document Retrieval with Efficient Vector Representations and pre-trained Transformer Architecture for QA (Facebook AI Research) 8.0/10.
 
   - title: A Little More About Me
     layout: text
