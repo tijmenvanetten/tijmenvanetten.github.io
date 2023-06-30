@@ -66,10 +66,10 @@ content:
         title: MyrmidonBot - Winning Entry Infosys Hackathon 2021
         link: https://github.com/tijmenvanetten/Myrmidon.git
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -134,14 +134,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Relevant courses: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, Advanced Topics in Computational Semantics, Information Theory.
           - Thesis: Global Temporal Fusion Transformers for Enhancing Robustness in Forecasting Electric Vehicle Charging Load through Joint Time-Series Learning.
-          > GPA: 8.3/10 (Cum Laude)
+          - GPA: 8.3/10 (Cum Laude)
 
       - layout: left
         title: University of Amsterdam
         caption: Sept 2017 - Mar 2021
         sub_title: Bachelor of Science in Artificial Intelligence
         description: | # this will include new lines to allow paragraphs
-          -  Minor: Applied Econometrics, Technical Track at the Vrije Universiteit Amsterdam
+          - Minor: Applied Econometrics, Technical Track at the Vrije Universiteit Amsterdam
           - Thesis: End-to-end Open-Domain Question Answering using Neural Document Retrieval with Efficient Vector Representations and pre-trained Transformer Architecture for QA (Facebook AI Research) 8.0/10.
 
   - title: A Little More About Me
