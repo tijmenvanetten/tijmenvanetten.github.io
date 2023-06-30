@@ -59,106 +59,106 @@ about_content: | # this will include new lines to allow paragraphs
   Feel free to reach out to me if you have any questions or if you're interested in discussing potential collaborations. I'm always excited to explore new opportunities in the field of AI development.
 
 content:
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-    # content:
-    #   - layout: top-middle
-    #     title: Super awesome project
-    #     link: github.com/sproogen
-    #     # link_text: Project Website
-    #     additional_links:
-    #       - title:  sproogen/modern-resume-theme
-    #         icon: fab fa-github
-    #         url: github.com/sproogen/modern-resume-theme
-    #       # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-    #       #   icon: fab fa-github
-    #       #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-    #     quote: >
-    #       This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-    #     description: | # this will include new lines to allow paragraphs
-    #       I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Super awesome project
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-    - title: Experience # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-        - layout: left
-          title: Shell PLC
-          link: shell.com
-          sub_title: AI Research Intern - Decarbonisation Data Science
-          caption: Jan 2023 - Current
-          description: | # this will include new lines to allow paragraphs
-            Developed a methodology to accurately predict electric vehicle charging load, enabling proactive planning and optimization of energy resources.
-            > Collaborated with stakeholders and communicated findings effectively, translating complex technical concepts into actionable recommendations for business units and project teams.
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Shell PLC
+        link: shell.com
+        sub_title: AI Research Intern - Decarbonisation Data Science
+        caption: Jan 2023 - Current
+        description: | # this will include new lines to allow paragraphs
+          Developed a methodology to accurately predict electric vehicle charging load, enabling proactive planning and optimization of energy resources.
+          Collaborated with stakeholders and communicated findings effectively, translating complex technical concepts into actionable recommendations for business units and project teams.
 
-        - layout: left
-          title: De Kleine Consultant
-          link: dekleineconsultant.nl
-          sub_title: Director, Strategy Consultant
-          caption: Sept 2022 - Current
-          description: | # this will include new lines to allow paragraphs
-            Conducted comprehensive market research and analysis to identify opportunities and advice clients ranging from charities to large enterprises; built advanced excel models to create revenue projections.
-            Oversaw and managed operations of a student-run non-profit strategy consulting firm of 25 consultants; led an initiative with external partners to sponsor students that are not in the financial situation to do work without compensation.
-            Demonstrated strong analytical skills, attention to detail, and a strategic mindset in all aspects of project execution.
+      - layout: left
+        title: De Kleine Consultant
+        link: dekleineconsultant.nl
+        sub_title: Director, Strategy Consultant
+        caption: Sept 2022 - Current
+        description: | # this will include new lines to allow paragraphs
+          Conducted comprehensive market research and analysis to identify opportunities and advice clients ranging from charities to large enterprises; built advanced excel models to create revenue projections.
+          Oversaw and managed operations of a student-run non-profit strategy consulting firm of 25 consultants; led an initiative with external partners to sponsor students that are not in the financial situation to do work without compensation.
+          Demonstrated strong analytical skills, attention to detail, and a strategic mindset in all aspects of project execution.
 
-        - layout: left
-          title: ABN AMRO
-          link: abnamro.com
-          sub_title: Data Science Intern
-          caption: Jul 2022 - Aug 2022
-          description: | # this will include new lines to allow paragraphs
-            Utilized a combination of traditional and advanced machine learning techniques to create an intelligent system with reasonably accurate estimation of solar potential.
-            Developed an AI system to automate the generation of personalized plans for installing solar panels; implemented the system in a real-time dashboard, allowing clients to receive personalized plans instantly.
-        
-        - layout: left
-          title: University of Amsterdam
-          link: uva.nl
-          sub_title: Teaching Assistant in Linear Algebra and Webtechnologies & Databases
-          caption: Jan 2022 - May 2022
-          description: | # this will include new lines to allow paragraphs
-            Guided group projects where students developed their own websites, providing guidance and expertise in web technologies and databases throughout the entire process.
-            Assisted the professor in conducting tutorials, grading assignments and exams; provided guidance and support to undergraduate students in understanding and solving complex mathematical problems related to linear algebra.
-
-        - layout: left
-          title: Infosys Limited
-          link: infosys.com
-          sub_title: Software & ML Intern
-          caption: May 2021 - August 2021
-          description: | # this will include new lines to allow paragraphs
-            Developed a Python module for PDF structure extraction, enabling the indexing of unstructured documents for efficient information retrieval; could be further used to generate supervised data in the COCO format used to fine-tune Computer Vision-based object detection models for scanned documents.
-            Led a team as captain in the Infosys Hackathon, for which we developed and proposed a modular NLP system that combined multiple healthcare-related chatbots through APIs in a single user interface; won first prize out of 33 teams.
-
-    - title: A Little More About Me
-      layout: text
-      content: | # this will include new lines to allow paragraphs
-        Alongside my interests in AI development, I am also passionate about
+      - layout: left
+        title: ABN AMRO
+        link: abnamro.com
+        sub_title: Data Science Intern
+        caption: Jul 2022 - Aug 2022
+        description: | # this will include new lines to allow paragraphs
+          Utilized a combination of traditional and advanced machine learning techniques to create an intelligent system with reasonably accurate estimation of solar potential.
+          Developed an AI system to automate the generation of personalized plans for installing solar panels; implemented the system in a real-time dashboard, allowing clients to receive personalized plans instantly.
       
-    - title: Skills # Title for the section
-      layout: text # Type of content section (list/text)
-      content: | # this will include new lines to allow paragraphs
-        **Languages**
-        - Python
-        - C/C++
-        - JavaScript
-        - Matlab
-        - Prolog
-        - Clingo ASP
+      - layout: left
+        title: University of Amsterdam
+        link: uva.nl
+        sub_title: Teaching Assistant in Linear Algebra and Webtechnologies & Databases
+        caption: Jan 2022 - May 2022
+        description: | # this will include new lines to allow paragraphs
+          Guided group projects where students developed their own websites, providing guidance and expertise in web technologies and databases throughout the entire process.
+          Assisted the professor in conducting tutorials, grading assignments and exams; provided guidance and support to undergraduate students in understanding and solving complex mathematical problems related to linear algebra.
 
-        **Libraries**
-        - PyTorch
-        - TensorFlow
-        - Scikit-Learn
-        - Transformers
-        - Pandas
-        - NumPy
-        - Matplotlib
-        - Seaborn
+      - layout: left
+        title: Infosys Limited
+        link: infosys.com
+        sub_title: Software & ML Intern
+        caption: May 2021 - August 2021
+        description: | # this will include new lines to allow paragraphs
+          Developed a Python module for PDF structure extraction, enabling the indexing of unstructured documents for efficient information retrieval; could be further used to generate supervised data in the COCO format used to fine-tune Computer Vision-based object detection models for scanned documents.
+          Led a team as captain in the Infosys Hackathon, for which we developed and proposed a modular NLP system that combined multiple healthcare-related chatbots through APIs in a single user interface; won first prize out of 33 teams.
 
-        **Miscellaneous**
-        - MLOps
-        - SQL
-        - Git
-        - Docker
-        - PowerBI
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in AI development, I am also passionate about
+      
+  - title: Skills # Title for the section
+    layout: text # Type of content section (list/text)
+    content: | # this will include new lines to allow paragraphs
+      **Languages**
+      - Python
+      - C/C++
+      - JavaScript
+      - Matlab
+      - Prolog
+      - Clingo ASP
+
+      **Libraries**
+      - PyTorch
+      - TensorFlow
+      - Scikit-Learn
+      - Transformers
+      - Pandas
+      - NumPy
+      - Matplotlib
+      - Seaborn
+
+      **Miscellaneous**
+      - MLOps
+      - SQL
+      - Git
+      - Docker
+      - PowerBI
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
