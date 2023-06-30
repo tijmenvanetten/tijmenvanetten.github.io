@@ -6,37 +6,37 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Tijmen van Etten
-title: Full-Stack AI Developer
-email: tijmenettenvan@gmail.com
-website: tijmenvanetten.github.io
+name: Brett Harris
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
+website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-# twitter_username: facespics
-github_username: tijmenvanetten
+twitter_username: facespics
+github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: tijmen_vanetten
-linkedin_username: tijmenvanetten
+instagram_username: jameswgrant
+linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: globalmtb
+youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-  - title: itsgoingto.be
-    icon: fas fa-globe
-    url: https://www.itsgoingto.be
-  # - title: another link
-  #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-  #   url: Link url (eg. https://google.com)
+- title: itsgoingto.be
+  icon: fas fa-globe
+  url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -48,16 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Tijmen, a Full-Stack AI Developer with a passion for building intelligent systems. I have a strong background in Artificial Intelligence and extensive experience in developing and deploying AI solutions.
+  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  Throughout my career, I have worked on various projects leveraging machine learning, deep learning, and natural language processing techniques. I am skilled in designing and implementing robust algorithms and models that drive actionable insights and enhance decision-making processes.
-
-  I am highly motivated and dedicated to delivering high-quality results. I enjoy collaborating with cross-functional teams to tackle complex problems and contribute to innovative solutions. My strong analytical and problem-solving skills enable me to effectively identify and address challenges in AI development.
-
-  When I'm not coding, you can find me exploring the latest advancements in AI research, honing my skills in competitive programming, or enjoying outdoor activities like hiking and cycling.
-
-  Feel free to reach out to me if you have any questions or if you're interested in discussing potential collaborations. I'm always excited to explore new opportunities in the field of AI development.
-
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
@@ -75,135 +68,60 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created. If you don't agree, you're probably wrong.
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way of learning <mark>React</mark>, and it has since grown into a fully-fledged app. I have learned many skills through this and been very proud of having this in my portfolio. If you don't have a project as awesome as this, I would advise you to make one.
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Shell PLC
-        link: shell.com
-        # link_text: shell.com
-        sub_title: AI Research Intern - Decarbonisation Data Science
-        caption: Jan 2023 - Current
+        title: The Boring Company
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
         quote: >
-          Developed a methodology to accurately predict electric vehicle charging load, enabling proactive planning and optimization of energy resources.
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-          - Collaborated with stakeholders and communicated findings effectively, translating complex technical concepts into actionable recommendations for business units and project teams.
-
-      - layout: left
-        title: De Kleine Consultant
-        link: kleinesconsultant.nl
-        # link_text: kleinesconsultant.nl
-        sub_title: Director, Strategy Consultant
-        caption: Sept 2022 - Current
-        quote: >
-          Oversaw and managed operations of a student-run non-profit strategy consulting firm of 25 consultants; led an initiative with external partners to sponsor students that are not in the financial situation to do work without compensation.
-        description: | # this will include new lines to allow paragraphs
-          - Conducted comprehensive market research and analysis to identify opportunities and advice clients ranging from charities to large enterprises; built advanced excel models to create revenue projections.
-          - Demonstrated strong analytical skills, attention to detail, and a strategic mindset in all aspects of project execution.
-
-      - layout: left
-        title: ABN AMRO
-        link: abnamro.com
-        # link_text: abnamro.com
-        sub_title: Data Science Intern
-        caption: Jul 2022 - Aug 2022
-        quote: >
-          Developed an AI system to automate the generation of personalized plans for installing solar panels; implemented the system in a real-time dashboard, allowing clients to receive personalized plans instantly.
-        description: | # this will include new lines to allow paragraphs
-          - Utilized a combination of traditional and advanced machine learning techniques to create an intelligent system with reasonably accurate estimation of solar potential.
-
-      - layout: left
-        title: University of Amsterdam
-        link: uva.nl
-        # link_text: uva.nl
-        sub_title: Teaching Assistant':' Linear Algebra; Webtechnologies & Databases
-        caption: Jan 2022 - May 2022
-        quote: >
-          Assisted the professor in conducting tutorials, grading assignments and exams; provided guidance and support to undergraduate students in understanding and solving complex mathematical problems related to linear algebra.
-        description: | # this will include new lines to allow paragraphs
-          - Guided group projects where students developed their own websites, providing guidance and expertise in web technologies and databases throughout the entire process.
-
-      - layout: left
-        title: Infosys Limited
-        link: infosys.com
-        # link_text: infosys.com
-        sub_title: Software & ML Intern
-        caption: May 2021 - August 2021
-        quote: >
-          Led a team as captain in the Infosys Hackathon, for which we developed and proposed a modular NLP system that combined multiple healthcare-related chatbots through APIs in a single user interface; won first prize out of 33 teams.
-        description: | # this will include new lines to allow paragraphs
-          - Developed a Python module for PDF structure extraction, enabling the indexing of unstructured documents for efficient information retrieval; could be further used to generate supervised data in the COCO format used to fine-tune Computer Vision-based object detection models for scanned documents.
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Amsterdam
-        caption: Sept 2021 - Current
-        sub_title: Master of Science in Artificial Intelligence
+        title: Harvard University
+        caption: 2010 - 2013
+        sub_title: BSc Computer Science
         quote: >
-          GPA: 8.3/10 (Cum Laude)
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          - Relevant courses: Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, Advanced Topics in Computational Semantics, Information Theory.
-          - Thesis: Global Temporal Fusion Transformers for Enhancing Robustness in Forecasting Electric Vehicle Charging Load through Joint Time-Series Learning.
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-      - layout: left
-        title: University of Amsterdam
-        caption: Sept 2017 - Mar 2021
-        sub_title: Bachelor of Science in Artificial Intelligence
-        quote: >
-          Minor: Applied Econometrics, Technical Track at the Vrije Universiteit Amsterdam
-        description: | # this will include new lines to allow paragraphs
-          - Thesis: End-to-end Open-Domain Question Answering using Neural Document Retrieval with Efficient Vector Representations and pre-trained Transformer Architecture for QA (Facebook AI Research) 8.0/10.
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Global Temporal Fusion Transformers
-        link: github.com/tijmenvanetten/gtft
-        # link_text: Project Website
-        additional_links:
-          - title:  tijmenvanetten/gtft
-            icon: fab fa-github
-            url: github.com/tijmenvanetten/gtft
-        quote: >
-          Developed a methodology for enhancing robustness in forecasting electric vehicle charging load through joint time-series learning using Global Temporal Fusion Transformers.
-        description: | # this will include new lines to allow paragraphs
-          - Implemented and evaluated state-of-the-art time-series forecasting models and proposed a novel architecture based on Global Temporal Fusion Transformers.
-          - Conducted extensive experiments and achieved significant improvements in forecasting accuracy and robustness.
-
-  - title: Skills # Title for the section
-    layout: text # Type of content section (list/text)
+  - title: A Little More About Me
+    layout: text
     content: | # this will include new lines to allow paragraphs
-      **Languages**
-      - Python
-      - C/C++
-      - JavaScript
-      - Matlab
-      - Prolog
-      - Clingo ASP
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      **Libraries**
-      - PyTorch
-      - TensorFlow
-      - Scikit-Learn
-      - Transformers
-      - Pandas
-      - NumPy
-      - Matplotlib
-      - Seaborn
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
-      **Miscellaneous**
-      - MLOps
-      - SQL
-      - Git
-      - Docker
-      - PowerBI
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
 
-Replace the projects, experience, education, and skills sections in the provided resume template with the projects, experience, education, and skills information from your resume. You can find the updated resume template below:
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
