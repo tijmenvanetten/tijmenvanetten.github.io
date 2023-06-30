@@ -59,8 +59,8 @@ about_content: | # this will include new lines to allow paragraphs
   Feel free to reach out to me if you have any questions or if you're interested in discussing potential collaborations. I'm always excited to explore new opportunities in the field of AI development.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
     # content:
     #   - layout: top-middle
     #     title: Super awesome project
