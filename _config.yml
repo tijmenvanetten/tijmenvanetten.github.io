@@ -48,9 +48,16 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems, I also have experience making software and web apps. I have worked at a number of companies, gaining teamwork and leadership skills.
+  Hi, I'm Tijmen, a Full-Stack AI Developer with a passion for building intelligent systems. I have a strong background in Artificial Intelligence and extensive experience in developing and deploying AI solutions.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Throughout my career, I have worked on various projects leveraging machine learning, deep learning, and natural language processing techniques. I am skilled in designing and implementing robust algorithms and models that drive actionable insights and enhance decision-making processes.
+
+  I am highly motivated and dedicated to delivering high-quality results. I enjoy collaborating with cross-functional teams to tackle complex problems and contribute to innovative solutions. My strong analytical and problem-solving skills enable me to effectively identify and address challenges in AI development.
+
+  When I'm not coding, you can find me exploring the latest advancements in AI research, honing my skills in competitive programming, or enjoying outdoor activities like hiking and cycling.
+
+  Feel free to reach out to me if you have any questions or if you're interested in discussing potential collaborations. I'm always excited to explore new opportunities in the field of AI development.
+
 
 content:
   - title: Projects # Title for the section
